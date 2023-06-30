@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b2b566941468064aa985d5c85737b4f, type: 3}
+  m_Name: Ball Settings
+  m_EditorClassIdentifier: 
+  ballMaterials:
+  - {fileID: 2100000, guid: 30033d3e85b5ea442b8701e807245a05, type: 2}
+  - {fileID: 2100000, guid: 4a8ac87f55e0cf84693830e580e43c0e, type: 2}
+  - {fileID: 2100000, guid: a899d5942a7376c4fa38396108fd65c7, type: 2}
+  - {fileID: 2100000, guid: 28c4f663c9ae86b47b76f5019a9f337b, type: 2}
+  - {fileID: 2100000, guid: f55d8753d975610469cf3293e819901d, type: 2}
+  - {fileID: 2100000, guid: 02a176ff90ed3564b9101412a68943a4, type: 2}
+  - {fileID: 2100000, guid: de6fba3793b29db4fa580bf1bb4853f7, type: 2}
+  - {fileID: 2100000, guid: 0e40c44335673b04986b0c1b399ec542, type: 2}
+  - {fileID: 2100000, guid: 5c10024a0027dac45a97bc705e6b7c7c, type: 2}
+  - {fileID: 2100000, guid: 065fc27e89937a6478e2307ae4fc6bc3, type: 2}
+  - {fileID: 2100000, guid: 70dcc9007781a0646aadfa515d509fac, type: 2}
+  ballTransperentMaterials:
+  - {fileID: 2100000, guid: 6f93160e3d70e1a47b669bfe598cba58, type: 2}
+  - {fileID: 2100000, guid: b41fc2f59fe13e345b037b71c5813e06, type: 2}
+  - {fileID: 2100000, guid: 54000ba8489ad6c4f82551035f9dfb24, type: 2}
+  - {fileID: 2100000, guid: 2c770d5513073b44f8a15f45a4f25f50, type: 2}
+  - {fileID: 2100000, guid: d6645c5f5b78e6244bbd26a48c96d580, type: 2}
+  - {fileID: 2100000, guid: e0fb22b753472c5488de5f5688498a18, type: 2}
+  - {fileID: 2100000, guid: 098830411e7681c4491c243f837f1545, type: 2}
+  - {fileID: 2100000, guid: 50513b36b105bcc49b9493d4592c95f6, type: 2}
+  - {fileID: 2100000, guid: 34c2e76614ca55a4da425491ec5e5013, type: 2}
+  - {fileID: 2100000, guid: 60b07c530f8ae944ca7d833142b899e9, type: 2}
+  - {fileID: 2100000, guid: 97f4a1b4493e6094db49f099f7167f94, type: 2}
